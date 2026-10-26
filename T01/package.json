@@ -1,0 +1,25 @@
+{
+  "name": "t01-learning",
+  "version": "1.0.0",
+  "description": "learning backend ",
+  "homepage": "https://github.com/kirtan-ideesofttech/BACKEND-LEARNING#readme",
+  "bugs": {
+    "url": "https://github.com/kirtan-ideesofttech/BACKEND-LEARNING/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirtan-ideesofttech/BACKEND-LEARNING.git"
+  },
+  "license": "ISC",
+  "author": "kirtan chauhan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "node": "^22.23.3"
+  },
+  "devDependencies": {}
+}

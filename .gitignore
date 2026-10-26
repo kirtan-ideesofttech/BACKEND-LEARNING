@@ -24,3 +24,13 @@ Thumbs.db
 .vscode/
 
 **/node_modules/
+
+**/node_modules/
+**/.env
+**/.env.*
+!**/.env.example
+
+**/node_modules/
+**/.env
+**/.env.*
+!**/.env.example
